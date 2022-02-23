@@ -1,16 +1,19 @@
 {
     "945857848250867732": {
         "bienvenidas_channel_id": "945857848703864923",
+        "image_only_channels_ids": "945857848703864923",
         "text_channel_id": "945857848703864923",
+        "prefix": "-",
         "despedidas_channel_id": "945857848703864923"
     },
     "796234198200483850": {
         "bienvenidas_channel_id": "945520722401443910",
+        "image_only_channels_ids": "945515003635724368",
         "skip_ratio": 0,
         "text_channel_id": "868572791853690940",
         "admin_role_id": "868568795113988166",
         "prefix": "-",
         "despedidas_channel_id": "945515003635724368"
     },
-    "930119663352946688": {}
+    "930119663352946688": {"image_only_channels_ids": "0"}
 }
