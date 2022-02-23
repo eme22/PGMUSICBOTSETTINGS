@@ -7,7 +7,10 @@
     },
     "796234198200483850": {
         "bienvenidas_channel_id": "945520722401443910",
-        "image_only_channels_ids": [929138855569936404],
+        "image_only_channels_ids": [
+            945515003635724368,
+            929138855569936404
+        ],
         "text_channel_id": "868572791853690940",
         "admin_role_id": "868568795113988166",
         "prefix": "-",
