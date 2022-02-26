@@ -1,17 +1,22 @@
 {
   "796234198200483850": {
-    "947241724642742394": {
-      "poll_question": "TU VIEJA PERRA",
+    "947252086704312350": {
+      "poll_question": "a",
       "poll_answers": [
         {
-          "poll_answer": "LA VIEJA PERRA DE \u003c@!852739578154582109\u003e",
+          "poll_answer": "b",
+          "poll_answer_count": 0,
+          "poll_participants": []
+        },
+        {
+          "poll_answer": "c",
           "poll_answer_count": 1,
           "poll_participants": [
             498627624483028992
           ]
         },
         {
-          "poll_answer": "LA MAMA DE EMANUELITOOOO",
+          "poll_answer": "d",
           "poll_answer_count": 0,
           "poll_participants": []
         }
