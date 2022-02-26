@@ -97,6 +97,20 @@
             "votes": 0
           }
         ]
+      },
+      {
+        "poll_message_id": 946987321755049994,
+        "poll_message_text": "tu vieja perra",
+        "poll_answers": [
+          {
+            "answer": "si",
+            "votes": 0
+          },
+          {
+            "answer": "no",
+            "votes": 0
+          }
+        ]
       }
     ]
   }
