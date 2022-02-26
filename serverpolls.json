@@ -1,6 +1,6 @@
 {
   "796234198200483850": {
-    "947252086704312350": {
+    "947254604117188609": {
       "poll_question": "a",
       "poll_answers": [
         {
@@ -10,10 +10,8 @@
         },
         {
           "poll_answer": "c",
-          "poll_answer_count": 1,
-          "poll_participants": [
-            498627624483028992
-          ]
+          "poll_answer_count": 0,
+          "poll_participants": []
         },
         {
           "poll_answer": "d",
