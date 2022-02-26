@@ -209,6 +209,20 @@
             "votes": 0
           }
         ]
+      },
+      {
+        "poll_message_id": 947006863763972146,
+        "poll_message_text": "sdadad",
+        "poll_answers": [
+          {
+            "answer": "si",
+            "votes": 0
+          },
+          {
+            "answer": "no",
+            "votes": 0
+          }
+        ]
       }
     ]
   }
