@@ -41,6 +41,20 @@
         "poll_message_id": 946967383392784474,
         "poll_message_text": "tu vieja perra",
         "poll_answers": []
+      },
+      {
+        "poll_message_id": 946970376875962421,
+        "poll_message_text": "tu vieja perra",
+        "poll_answers": [
+          {
+            "answer": "si",
+            "votes": 0
+          },
+          {
+            "answer": "no",
+            "votes": 0
+          }
+        ]
       }
     ]
   }
