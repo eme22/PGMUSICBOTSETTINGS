@@ -195,6 +195,20 @@
             "votes": 0
           }
         ]
+      },
+      {
+        "poll_message_id": 947006108558569512,
+        "poll_message_text": "eo",
+        "poll_answers": [
+          {
+            "answer": "si",
+            "votes": 0
+          },
+          {
+            "answer": "no",
+            "votes": 0
+          }
+        ]
       }
     ]
   }
