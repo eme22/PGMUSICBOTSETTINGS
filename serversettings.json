@@ -1,0 +1,39 @@
+{
+  "945857848250867732": {
+    "text_channel_id": 945858248429416498,
+    "voice_channel_id": -1,
+    "dj_role_id": -1,
+    "admin_role_id": -1,
+    "volume": 150,
+    "repeat_mode": 0,
+    "prefix": "-",
+    "skip_ratio": 0.55,
+    "bienvenidas_channel_id": -1,
+    "despedidas_channel_id": -1,
+    "image_only_channels_ids": [],
+    "meme_images": []
+  },
+  "796234198200483850": {
+    "text_channel_id": 868572791853690940,
+    "voice_channel_id": -1,
+    "dj_role_id": -1,
+    "admin_role_id": 868568795113988166,
+    "volume": 150,
+    "repeat_mode": 0,
+    "prefix": "-",
+    "skip_ratio": 0.55,
+    "bienvenidas_channel_id": 945520722401443910,
+    "despedidas_channel_id": 945515003635724368,
+    "image_only_channels_ids": [
+      945520722401443910,
+      929138855569936404,
+      945515003635724368
+    ],
+    "meme_images": [
+      {
+        "message": "mega cachame conchatumare",
+        "meme": "https://cdn.discordapp.com/attachments/868579799650684949/946642791843364924/MEGA.png"
+      }
+    ]
+  }
+}
