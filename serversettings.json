@@ -11,7 +11,8 @@
     "bienvenidas_channel_id": -1,
     "despedidas_channel_id": -1,
     "image_only_channels_ids": [],
-    "meme_images": []
+    "meme_images": [],
+    "polls": []
   },
   "796234198200483850": {
     "text_channel_id": 868572791853690940,
@@ -33,6 +34,13 @@
       {
         "message": "mega cachame conchatumare",
         "meme": "https://cdn.discordapp.com/attachments/868579799650684949/946642791843364924/MEGA.png"
+      }
+    ],
+    "polls": [
+      {
+        "poll_message_id": 946967383392784474,
+        "poll_message_text": "tu vieja perra",
+        "poll_answers": []
       }
     ]
   }
