@@ -1,24 +1,3 @@
 {
-  "796234198200483850": {
-    "947254604117188609": {
-      "poll_question": "a",
-      "poll_answers": [
-        {
-          "poll_answer": "b",
-          "poll_answer_count": 0,
-          "poll_participants": []
-        },
-        {
-          "poll_answer": "c",
-          "poll_answer_count": 0,
-          "poll_participants": []
-        },
-        {
-          "poll_answer": "d",
-          "poll_answer_count": 0,
-          "poll_participants": []
-        }
-      ]
-    }
-  }
+  "796234198200483850": {}
 }
