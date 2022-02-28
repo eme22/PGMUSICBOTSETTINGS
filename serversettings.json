@@ -18,7 +18,7 @@
     "voice_channel_id": -1,
     "dj_role_id": -1,
     "admin_role_id": 868568795113988166,
-    "volume": 70,
+    "volume": 40,
     "repeat_mode": 0,
     "prefix": "-",
     "skip_ratio": 0.55,
@@ -101,6 +101,34 @@
       {
         "message": "Mecha de Hacker",
         "meme": "https://cdn.discordapp.com/attachments/875234954248880208/880600644329807932/unknown.png"
+      },
+      {
+        "message": "Asi grita tu vieja",
+        "meme": "https://cdn.discordapp.com/attachments/895358963602821192/947629449455734925/unknown.png"
+      },
+      {
+        "message": "face arrecho",
+        "meme": "https://cdn.discordapp.com/attachments/895358963602821192/947631009371938826/unknown.png"
+      },
+      {
+        "message": "arriba las manos MRD 😡😡 😡",
+        "meme": "https://cdn.discordapp.com/attachments/895358963602821192/947631802607087686/unknown.png"
+      },
+      {
+        "message": "taba de face",
+        "meme": "https://cdn.discordapp.com/attachments/869322292440727593/947632904111026206/unknown.png"
+      },
+      {
+        "message": "JKP",
+        "meme": "https://cdn.discordapp.com/attachments/796234198200483853/934278426318221343/IMG_9359.jpg"
+      },
+      {
+        "message": "👀",
+        "meme": "https://cdn.discordapp.com/attachments/796234198200483853/947633953978843176/unknown.png"
+      },
+      {
+        "message": "Jhera cagon",
+        "meme": "https://media.discordapp.net/attachments/796234198200483853/947634177178734622/unknown.png"
       }
     ]
   }
