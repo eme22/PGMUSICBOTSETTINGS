@@ -1,19 +1,19 @@
 {
   "796234198200483850": {
-    "947892427048505434": {
+    "947893315355959297": {
       "poll_question": "TU VIEJA PERRA",
       "poll_answers": [
         {
           "poll_answer": "SI",
+          "poll_answer_count": 0,
+          "poll_participants": []
+        },
+        {
+          "poll_answer": "NO",
           "poll_answer_count": 1,
           "poll_participants": [
             498627624483028992
           ]
-        },
-        {
-          "poll_answer": "NO",
-          "poll_answer_count": 0,
-          "poll_participants": []
         }
       ]
     }
