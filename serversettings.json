@@ -18,7 +18,7 @@
     "voice_channel_id": -1,
     "dj_role_id": -1,
     "admin_role_id": 868568795113988166,
-    "volume": 40,
+    "volume": 80,
     "repeat_mode": 0,
     "prefix": "-",
     "skip_ratio": 0.55,
