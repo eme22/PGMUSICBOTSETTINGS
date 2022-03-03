@@ -1,10 +1,24 @@
 {
+  "699765429425668216" : {
+    "text_channel_id" : 0,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "volume" : 100,
+    "repeat_mode" : "OFF",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel_id" : 0,
+    "despedidas_channel_id" : 0,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ]
+  },
   "796234198200483850" : {
     "text_channel_id" : 868572791853690940,
     "voice_channel_id" : 0,
     "dj_role_id" : 0,
     "admin_role_id" : 868568795113988166,
-    "volume" : 100,
+    "volume" : 70,
     "repeat_mode" : "OFF",
     "prefix" : "-",
     "skip_ratio" : 0.55,
