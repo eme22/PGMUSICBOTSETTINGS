@@ -1,4 +1,18 @@
 {
+  "750412299877089330" : {
+    "text_channel_id" : 885961256366907492,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "repeat_mode" : "OFF",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel_id" : 885964369479991347,
+    "despedidas_channel_id" : 923686690453872690,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ],
+    "role_manager" : [ ]
+  },
   "699765429425668216" : {
     "text_channel_id" : 0,
     "voice_channel_id" : 0,
