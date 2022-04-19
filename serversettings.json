@@ -8,7 +8,9 @@
     "prefix" : "!",
     "skip_ratio" : 0.55,
     "bienvenidas_channel_id" : 965995472550494228,
+    "bienvenidas_channel_image" : "https://cdn.discordapp.com/attachments/911474101388976150/966001817525821490/unknown.png",
     "despedidas_channel_id" : 965996103793274900,
+    "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/911474101388976150/966001851680063518/unknown.png",
     "image_only_channels_ids" : [ ],
     "meme_images" : [ {
       "message" : "fabri serio",
