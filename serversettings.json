@@ -64,6 +64,7 @@
     "bienvenidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966053558262849546/despedida_2.png",
     "bienvenidas_channel_message" : "En que andas @username te damos la bienvenida a @servername, Discord creado por el pueblo y para el pueblo.\nPARA INGRESAR A LOS OTROS CANALES, POR FAVOR LEE LAS <#869307625169367130> Y VERIFÍCATE.",
     "despedidas_channel_id" : 945515003635724368,
+    "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966056265186955324/despedida_232323.png",
     "despedidas_channel_message" : "Se ha escapado de nuestras manos",
     "image_only_channels_ids" : [ 945520722401443910, 929138855569936404, 945515003635724368 ],
     "meme_images" : [ {
