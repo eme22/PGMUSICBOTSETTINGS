@@ -16,7 +16,13 @@
       "message" : "fabri serio",
       "meme" : "https://cdn.discordapp.com/emojis/950595440221487114.webp?size=96&quality=lossless"
     }, {
-      "message" : "a",
+      "message" : "❓ ",
+      "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/966468597553696788/Screenshot_1.png"
+    }, {
+      "message" : "\uD83C\uDDF7 \uD83C\uDD70️ \uD83C\uDD70️ \uD83C\uDD70️ ",
+      "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/966469545403510844/unknown.png"
+    }, {
+      "message" : "\uD83D\uDE10 ",
       "meme" : "https://cdn.discordapp.com/emojis/861112720996696065.webp?size=96&quality=lossless"
     } ],
     "polls" : [ ],
@@ -38,6 +44,20 @@
         "wot:854107699792183346" : "<@&951639076556132417>"
       }
     } ]
+  },
+  "908080238746017883" : {
+    "text_channel_id" : 0,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "repeat_mode" : "OFF",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel_id" : 0,
+    "despedidas_channel_id" : 0,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ],
+    "role_manager" : [ ]
   },
   "699765429425668216" : {
     "text_channel_id" : 0,
@@ -143,9 +163,6 @@
       "message" : "Jhera cagon",
       "meme" : "https://media.discordapp.net/attachments/796234198200483853/947634177178734622/unknown.png"
     }, {
-      "message" : "OK PAPI",
-      "meme" : "https://cdn.discordapp.com/attachments/869322292440727593/948059245511839754/104439855_642858839641975_5707604648796700800_n.jpg"
-    }, {
       "message" : "HACE CALOR",
       "meme" : "https://cdn.discordapp.com/attachments/869322292440727593/948059245797081088/106367955_899335363899626_2502687470937720753_n.jpg"
     }, {
@@ -184,6 +201,9 @@
     }, {
       "message" : "SERVER ABIERTO!!",
       "meme" : "https://cdn.discordapp.com/attachments/869322292440727593/948059245511839754/104439855_642858839641975_5707604648796700800_n.jpg"
+    }, {
+      "message" : "FRENTITA",
+      "meme" : "https://cdn.discordapp.com/attachments/949359120706838688/966749460459823144/unknown.png"
     } ],
     "polls" : [ {
       "question" : "QUE SALE?",
