@@ -90,6 +90,21 @@
     "meme_images" : [ ],
     "polls" : [ ]
   },
+  "755513981103505509" : {
+    "text_channel_id" : 755513981103505512,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "repeat_mode" : "OFF",
+    "prefix" : "!",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel_id" : 755513981103505512,
+    "despedidas_channel_id" : 755513981103505512,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ],
+    "role_manager" : [ ]
+  },
   "796234198200483850" : {
     "text_channel_id" : 868572791853690940,
     "voice_channel_id" : 0,
