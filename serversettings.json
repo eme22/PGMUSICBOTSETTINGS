@@ -61,7 +61,8 @@
         "sorpriseG:853747134096867358" : "<@&965425232498294805>",
         "wot:854107699792183346" : "<@&951639076556132417>"
       }
-    } ]
+    } ],
+    "8ball_answers" : [ ]
   },
   "908080238746017883" : {
     "text_channel_id" : 0,
@@ -75,7 +76,8 @@
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
-    "role_manager" : [ ]
+    "role_manager" : [ ],
+    "8ball_answers" : [ ]
   },
   "699765429425668216" : {
     "text_channel_id" : 0,
@@ -88,7 +90,9 @@
     "despedidas_channel_id" : 0,
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
-    "polls" : [ ]
+    "polls" : [ ],
+    "role_manager" : [ ],
+    "8ball_answers" : [ ]
   },
   "755513981103505509" : {
     "text_channel_id" : 755513981103505512,
@@ -103,13 +107,14 @@
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
-    "role_manager" : [ ]
+    "role_manager" : [ ],
+    "8ball_answers" : [ ]
   },
   "796234198200483850" : {
     "text_channel_id" : 868572791853690940,
     "voice_channel_id" : 0,
     "dj_role_id" : 0,
-    "admin_role_id" : 868568795113988166,
+    "admin_role_id" : 868568082493341707,
     "repeat_mode" : "OFF",
     "prefix" : "-",
     "skip_ratio" : 0.55,
@@ -310,6 +315,7 @@
         "re10:896276841957056532" : "<@&927059955083804683>",
         "781563662757527553:870092653402947664" : "<@&902787146505650196>"
       }
-    } ]
+    } ],
+    "8ball_answers" : [ "Si", "No", "pene", "Pregúntale al tank de Narco", "a tu vieja preguntale" ]
   }
 }
