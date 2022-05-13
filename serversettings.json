@@ -14,6 +14,21 @@
     "role_manager" : [ ],
     "8ball_answers" : [ ]
   },
+  "972920174539845652" : {
+    "text_channel_id" : 972920174539845655,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "repeat_mode" : "OFF",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel_id" : 972920174539845655,
+    "despedidas_channel_id" : 972920174539845655,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ],
+    "role_manager" : [ ],
+    "8ball_answers" : [ ]
+  },
   "750412299877089330" : {
     "text_channel_id" : 885961256366907492,
     "voice_channel_id" : 0,
@@ -60,6 +75,18 @@
     }, {
       "message" : "\uD83D\uDC41️ \uD83D\uDC41️ ",
       "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/970825635784187965/unknown.png"
+    }, {
+      "message" : "\uD83D\uDC43",
+      "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/974426723926040636/WhatsApp_Image_2022-05-12_at_4.42.55_PM.jpeg"
+    }, {
+      "message" : "\uD83E\uDD7A",
+      "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/974448760384004136/Screenshot_2022-05-12-18-10-47-760_com.instagram.android.jpg"
+    }, {
+      "message" : "valorcito?",
+      "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/974449590310948914/WhatsApp_Image_2022-05-12_at_6.14.09_PM.jpeg"
+    }, {
+      "message" : "\uD83D\uDE33",
+      "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/974450122266148895/WhatsApp_Image_2022-05-12_at_6.16.22_PM.jpeg"
     } ],
     "polls" : [ ],
     "role_manager" : [ {
