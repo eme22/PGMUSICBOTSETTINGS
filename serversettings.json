@@ -159,7 +159,7 @@
     "8ball_answers" : [ ]
   },
   "796234198200483850" : {
-    "text_channel_id" : 868572791853690940,
+    "text_channel_id" : 986126475587624991,
     "voice_channel_id" : 0,
     "dj_role_id" : 868570076792639529,
     "admin_role_id" : 868568795113988166,
@@ -172,7 +172,7 @@
     "despedidas_channel_id" : 945515003635724368,
     "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966056265186955324/despedida_232323.png",
     "despedidas_channel_message" : "Se ha escapado de nuestras manos",
-    "image_only_channels_ids" : [ 945520722401443910, 929138855569936404, 945515003635724368 ],
+    "image_only_channels_ids" : [ 945520722401443910, 929138855569936404, 945515003635724368, 986103653322592347 ],
     "meme_images" : [ {
       "message" : "mega cachame conchatumare",
       "meme" : "https://cdn.discordapp.com/attachments/868579799650684949/946642791843364924/MEGA.png"
