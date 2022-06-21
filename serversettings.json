@@ -6,13 +6,16 @@
     "admin_role_id" : 0,
     "repeat_mode" : "OFF",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 0,
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 0,
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
     "role_manager" : [ ],
-    "8ball_answers" : [ ]
+    "8ball_answers" : [ ],
+    "anti_raid_mode" : false
   },
   "972920174539845652" : {
     "text_channel_id" : 972920174539845655,
@@ -21,13 +24,16 @@
     "admin_role_id" : 0,
     "repeat_mode" : "OFF",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 972920174539845655,
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 972920174539845655,
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
     "role_manager" : [ ],
-    "8ball_answers" : [ ]
+    "8ball_answers" : [ ],
+    "anti_raid_mode" : false
   },
   "750412299877089330" : {
     "text_channel_id" : 885961256366907492,
@@ -37,8 +43,10 @@
     "repeat_mode" : "OFF",
     "prefix" : "!",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 965995472550494228,
     "bienvenidas_channel_image" : "https://cdn.discordapp.com/attachments/911474101388976150/966001817525821490/unknown.png",
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 965996103793274900,
     "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/911474101388976150/966001851680063518/unknown.png",
     "image_only_channels_ids" : [ ],
@@ -128,7 +136,8 @@
       "emojilist" : {
         "✅" : "<@&923681924176826389>",
         "\uD83C\uDF51" : "<@&758168730668367893>"
-      }
+      },
+      "toggled" : false
     }, {
       "id" : 966045912042438676,
       "message" : "**ROLES SECUNDARIOS\n\uD83D\uDD2B <@&923694760907132948> \n<:minero:905638916013580308>   <@&939971944298741831>\n<:wot:854107699792183346>  <@&951639076556132417> \n<:shy:902641607571030046>  <@&956046763465252945> \n<:sorpriseG:853747134096867358> <@&965425232498294805> **",
@@ -138,9 +147,11 @@
         "\uD83D\uDD2B" : "<@&923694760907132948>",
         "sorpriseG:853747134096867358" : "<@&965425232498294805>",
         "wot:854107699792183346" : "<@&951639076556132417>"
-      }
+      },
+      "toggled" : false
     } ],
-    "8ball_answers" : [ "Sí", "No", "mas chipi" ]
+    "8ball_answers" : [ "Sí", "No", "mas chipi" ],
+    "anti_raid_mode" : false
   },
   "908080238746017883" : {
     "text_channel_id" : 0,
@@ -149,13 +160,16 @@
     "admin_role_id" : 0,
     "repeat_mode" : "OFF",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 0,
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 0,
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
     "role_manager" : [ ],
-    "8ball_answers" : [ ]
+    "8ball_answers" : [ ],
+    "anti_raid_mode" : false
   },
   "699765429425668216" : {
     "text_channel_id" : 0,
@@ -164,13 +178,16 @@
     "admin_role_id" : 0,
     "repeat_mode" : "OFF",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 0,
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 0,
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
     "role_manager" : [ ],
-    "8ball_answers" : [ ]
+    "8ball_answers" : [ ],
+    "anti_raid_mode" : false
   },
   "755513981103505509" : {
     "text_channel_id" : 755513981103505512,
@@ -180,13 +197,16 @@
     "repeat_mode" : "OFF",
     "prefix" : "!",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 755513981103505512,
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 755513981103505512,
     "image_only_channels_ids" : [ ],
     "meme_images" : [ ],
     "polls" : [ ],
     "role_manager" : [ ],
-    "8ball_answers" : [ ]
+    "8ball_answers" : [ ],
+    "anti_raid_mode" : false
   },
   "796234198200483850" : {
     "text_channel_id" : 986126475587624991,
@@ -196,9 +216,11 @@
     "repeat_mode" : "OFF",
     "prefix" : "-",
     "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
     "bienvenidas_channel_id" : 988531195153367082,
     "bienvenidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966053558262849546/despedida_2.png",
     "bienvenidas_channel_message" : "En que andas @username te damos la bienvenida a @servername, Discord creado por el pueblo y para el pueblo.\nPARA INGRESAR A LOS OTROS CANALES, POR FAVOR LEE LAS <#869307625169367130> Y VERIFÍCATE.",
+    "despedidas_channel" : false,
     "despedidas_channel_id" : 988531539505725560,
     "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966056265186955324/despedida_232323.png",
     "despedidas_channel_message" : "Se ha escapado de nuestras manos",
@@ -366,28 +388,32 @@
       "emojilist" : {
         ":726936700990914732:870089814991568926" : "ROL DE PRUEBA 1",
         ":726936680875032649:870089814110769192" : "ROL DE PRUEBA 2"
-      }
+      },
+      "toggled" : false
     }, {
       "id" : 949576620858048603,
       "message" : "Rol Test:\n<:726936700990914732:870089814991568926> <@&949504061110124594> \n<:726936680875032649:870089814110769192> <@&949504134221029416>",
       "emojilist" : {
         ":726936700990914732:870089814991568926" : "ROL DE PRUEBA 1",
         ":726936680875032649:870089814110769192" : "ROL DE PRUEBA 2"
-      }
+      },
+      "toggled" : false
     }, {
       "id" : 949577378835877888,
       "message" : "Rol Test:\n<:726936700990914732:870089814991568926> <@&949504061110124594> \n<:726936680875032649:870089814110769192> <@&949504134221029416>",
       "emojilist" : {
         ":726936700990914732:870089814991568926" : "ROL DE PRUEBA 1",
         ":726936680875032649:870089814110769192" : "ROL DE PRUEBA 2"
-      }
+      },
+      "toggled" : false
     }, {
       "id" : 949577801885954078,
       "message" : "Rol Test:\n<:726936700990914732:870089814991568926> <@&949504061110124594> \n<:726936680875032649:870089814110769192> <@&949504134221029416>",
       "emojilist" : {
         ":726936700990914732:870089814991568926" : "<@&949504061110124594>",
         ":726936680875032649:870089814110769192" : "<@&949504134221029416>"
-      }
+      },
+      "toggled" : false
     }, {
       "id" : 949940429149855796,
       "message" : "**ESCOGE EL SEPARADOR Y TU ROL O ROLES AQUÍ**\n\n<:726936700990914732:870089814991568926> <@&914678798383976508>\n\n<:726936677762859040:870419273871401051> <@&868570076792639529>\n\n<:Jhera3:880145865715626004> <@&880175699506393128>\n\n\n\uD83D\uDC47 **REACCIONA AQUI** \uD83D\uDC47",
@@ -395,7 +421,8 @@
         "726936700990914732:870089814991568926" : "<@&914678798383976508>",
         "Jhera3:880145865715626004" : "<@&880175699506393128>",
         "726936677762859040:870419273871401051" : "<@&868570076792639529>"
-      }
+      },
+      "toggled" : false
     }, {
       "id" : 949940813784309831,
       "message" : "**ROLES SECUNDARIOS**\n\n<:re17:906265576995946566> <@&870084830728159314>\n\n<:781563662757527553:870092653402947664> <@&902787146505650196>\n\n<:re10:896276841957056532> <@&927059955083804683>\n\n<:781570270719639552:870092382593486900> <@&927059371081486367>\n\n\n\uD83D\uDC47 REACCIONA AQUI \uD83D\uDC47",
@@ -404,8 +431,10 @@
         "re17:906265576995946566" : "<@&870084830728159314>",
         "re10:896276841957056532" : "<@&927059955083804683>",
         "781563662757527553:870092653402947664" : "<@&902787146505650196>"
-      }
+      },
+      "toggled" : false
     } ],
-    "8ball_answers" : [ "Si", "No", "pene", "Pregúntale al tank de Narco", "a tu vieja preguntale", "tu mamá la cachera", "te encanta", "Fue M", "Fue Jhera", "No sé, pero ese Jhera es cabro no más diré", "Ok", "tipea -pipilin ;)", "Probablemente", "Yo solo leí: \"pipipi\"", "xd", "tú pes montol", "Mega" ]
+    "8ball_answers" : [ "Si", "No", "pene", "Pregúntale al tank de Narco", "a tu vieja preguntale", "tu mamá la cachera", "te encanta", "Fue M", "Fue Jhera", "No sé, pero ese Jhera es cabro no más diré", "Ok", "tipea -pipilin ;)", "Probablemente", "Yo solo leí: \"pipipi\"", "xd", "tú pes montol", "Mega" ],
+    "anti_raid_mode" : false
   }
 }
