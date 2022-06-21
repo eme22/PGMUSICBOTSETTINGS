@@ -111,6 +111,16 @@
         "votes" : [ 852348541044260884 ]
       } ],
       "id" : 988619773459972156
+    }, {
+      "question" : "¿deberiamos crucificar a lucas?",
+      "answers" : [ {
+        "answer" : "no lo se, me gusta kunno",
+        "votes" : [ ]
+      }, {
+        "answer" : "si, quemenlo",
+        "votes" : [ 682384641482686489, 750405524029309060, 462734701921042434, 852348541044260884 ]
+      } ],
+      "id" : 988622458888290314
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
