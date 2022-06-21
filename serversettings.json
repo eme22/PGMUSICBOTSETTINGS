@@ -91,7 +91,27 @@
       "message" : "yo tambien",
       "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/974532638394163210/Screenshot_2022-05-12-23-44-19-207_com.instagram.android.jpg"
     } ],
-    "polls" : [ ],
+    "polls" : [ {
+      "question" : "deberiamos cumear a ñokas?",
+      "answers" : [ {
+        "answer" : "si",
+        "votes" : [ 750405524029309060, 462734701921042434, 852348541044260884 ]
+      }, {
+        "answer" : "no,me gusta el pene",
+        "votes" : [ ]
+      } ],
+      "id" : 988616775602151454
+    }, {
+      "question" : "¿Deberia lukas tener admin?",
+      "answers" : [ {
+        "answer" : "si",
+        "votes" : [ 682384641482686489 ]
+      }, {
+        "answer" : "no",
+        "votes" : [ 852348541044260884 ]
+      } ],
+      "id" : 988619773459972156
+    } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
       "message" : "**Reacciona al emoji para obtener tus ROLE \n✅ <@&923681924176826389> \n\uD83C\uDF51 <@&758168730668367893> ** ",
@@ -166,10 +186,10 @@
     "repeat_mode" : "OFF",
     "prefix" : "-",
     "skip_ratio" : 0.55,
-    "bienvenidas_channel_id" : 945520722401443910,
+    "bienvenidas_channel_id" : 988531195153367082,
     "bienvenidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966053558262849546/despedida_2.png",
     "bienvenidas_channel_message" : "En que andas @username te damos la bienvenida a @servername, Discord creado por el pueblo y para el pueblo.\nPARA INGRESAR A LOS OTROS CANALES, POR FAVOR LEE LAS <#869307625169367130> Y VERIFÍCATE.",
-    "despedidas_channel_id" : 945515003635724368,
+    "despedidas_channel_id" : 988531539505725560,
     "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966056265186955324/despedida_232323.png",
     "despedidas_channel_message" : "Se ha escapado de nuestras manos",
     "image_only_channels_ids" : [ 945520722401443910, 929138855569936404, 945515003635724368, 986103653322592347 ],
