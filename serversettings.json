@@ -1,4 +1,51 @@
 {
+  "788473329493082142" : {
+    "text_channel_id" : 874466905002504212,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "repeat_mode" : "OFF",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
+    "bienvenidas_channel_id" : 0,
+    "despedidas_channel" : false,
+    "despedidas_channel_id" : 0,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ],
+    "role_manager" : [ {
+      "id" : 988901140332679188,
+      "message" : "Reacciona a tu genero! \n───────────────\n﹙\uD83D\uDEBA﹚she/her\n﹙\uD83D\uDEB9﹚he/him\n﹙\uD83D\uDEBB﹚they/them\n﹙\uD83D\uDC65﹚any pronouns\n───────────────",
+      "emojilist" : {
+        "\uD83D\uDC65" : "<@&988646692167512115>",
+        "\uD83D\uDEBB" : "<@&988645144846819349>",
+        "\uD83D\uDEBA" : "<@&988644648601931776>",
+        "\uD83D\uDEB9" : "<@&988645021727223858>"
+      },
+      "toggled" : true
+    }, {
+      "id" : 988901768899493908,
+      "message" : "Reacciona a tu sexualidad!\n───────────────\n﹙❤﹚Hetero \n﹙\uD83E\uDDE1﹚Bisexual \n﹙\uD83D\uDC9B﹚Homosexual \n﹙\uD83D\uDC9A﹚Asexual\n﹙\uD83D\uDC99﹚Pansexual \n───────────────",
+      "emojilist" : {
+        "\uD83D\uDC9B" : "<@&872957236966748230>",
+        "\uD83D\uDC9A" : "<@&988644338277953558>",
+        "\uD83D\uDC99" : "<@&988644428044435506>",
+        "\uD83E\uDDE1" : "<@&872957200870559764>",
+        "❤️" : "<@&872957159523119126>"
+      },
+      "toggled" : true
+    }, {
+      "id" : 988902369150525532,
+      "message" : "Reacciona a tu edad!\n───────────────\n﹙\uD83D\uDD1E﹚-18\n﹙\uD83E\uDD1F﹚+18\n───────────────",
+      "emojilist" : {
+        "\uD83D\uDD1E" : "<@&872955670205464666>",
+        "\uD83E\uDD1F" : "<@&872956291256033310>"
+      },
+      "toggled" : true
+    } ],
+    "8ball_answers" : [ ],
+    "anti_raid_mode" : false
+  },
   "965775558136987649" : {
     "text_channel_id" : 0,
     "voice_channel_id" : 0,
@@ -129,6 +176,32 @@
         "votes" : [ 682384641482686489, 750405524029309060, 462734701921042434, 852348541044260884 ]
       } ],
       "id" : 988622458888290314
+    }, {
+      "question" : "deberia salirme del server",
+      "answers" : [ {
+        "answer" : "si, ayer me comi 40 pijas negras",
+        "votes" : [ ]
+      }, {
+        "answer" : "tengo sida",
+        "votes" : [ 479389661295542292 ]
+      }, {
+        "answer" : "no, si te sales eres gai",
+        "votes" : [ 750405524029309060 ]
+      }, {
+        "answer" : "mejor botemos a hiro",
+        "votes" : [ ]
+      } ],
+      "id" : 988922588036202496
+    }, {
+      "question" : "combatiente o guerrero",
+      "answers" : [ {
+        "answer" : "combatiente",
+        "votes" : [ 682384641482686489, 750405524029309060, 462734701921042434, 479389661295542292 ]
+      }, {
+        "answer" : "guerrero",
+        "votes" : [ ]
+      } ],
+      "id" : 988971392638787644
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
@@ -216,11 +289,11 @@
     "repeat_mode" : "OFF",
     "prefix" : "-",
     "skip_ratio" : 0.55,
-    "bienvenidas_channel" : false,
+    "bienvenidas_channel" : true,
     "bienvenidas_channel_id" : 988531195153367082,
     "bienvenidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966053558262849546/despedida_2.png",
     "bienvenidas_channel_message" : "En que andas @username te damos la bienvenida a @servername, Discord creado por el pueblo y para el pueblo.\nPARA INGRESAR A LOS OTROS CANALES, POR FAVOR LEE LAS <#869307625169367130> Y VERIFÍCATE.",
-    "despedidas_channel" : false,
+    "despedidas_channel" : true,
     "despedidas_channel_id" : 988531539505725560,
     "despedidas_channel_image" : "https://cdn.discordapp.com/attachments/949359120706838688/966056265186955324/despedida_232323.png",
     "despedidas_channel_message" : "Se ha escapado de nuestras manos",
