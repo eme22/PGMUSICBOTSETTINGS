@@ -202,6 +202,16 @@
         "votes" : [ ]
       } ],
       "id" : 988971392638787644
+    }, {
+      "question" : "activo camara",
+      "answers" : [ {
+        "answer" : "si",
+        "votes" : [ 750405524029309060, 462734701921042434, 479389661295542292 ]
+      }, {
+        "answer" : "no",
+        "votes" : [ ]
+      } ],
+      "id" : 989280779286753342
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
@@ -223,7 +233,7 @@
       },
       "toggled" : false
     } ],
-    "8ball_answers" : [ "Sí", "No", "mas chipi" ],
+    "8ball_answers" : [ "Sí", "No", "mas chipi", "si, con todas y con la tuya" ],
     "anti_raid_mode" : false
   },
   "908080238746017883" : {
