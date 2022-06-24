@@ -212,6 +212,42 @@
         "votes" : [ ]
       } ],
       "id" : 989280779286753342
+    }, {
+      "question" : "quien es el mas full gai del server",
+      "answers" : [ {
+        "answer" : "ñukas",
+        "votes" : [ 750405524029309060, 462734701921042434 ]
+      }, {
+        "answer" : "falazus",
+        "votes" : [ 852348541044260884 ]
+      }, {
+        "answer" : "yirz",
+        "votes" : [ ]
+      }, {
+        "answer" : "saimon",
+        "votes" : [ ]
+      } ],
+      "id" : 989694580339376158
+    }, {
+      "question" : "deberia saimon ser mi negrita?",
+      "answers" : [ {
+        "answer" : "si",
+        "votes" : [ 750405524029309060, 462734701921042434 ]
+      }, {
+        "answer" : "si",
+        "votes" : [ ]
+      } ],
+      "id" : 989694996179472415
+    }, {
+      "question" : "porque mejor no me maman la pinga",
+      "answers" : [ {
+        "answer" : "si papi toda",
+        "votes" : [ ]
+      }, {
+        "answer" : "cual pinga chipi esteril",
+        "votes" : [ 750405524029309060 ]
+      } ],
+      "id" : 989695531397840936
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
@@ -233,7 +269,7 @@
       },
       "toggled" : false
     } ],
-    "8ball_answers" : [ "Sí", "No", "mas chipi", "si, con todas y con la tuya" ],
+    "8ball_answers" : [ "Sí", "No", "mas chipi", "si, con todas y con la tuya", "alu", "ñukas", "papilazus" ],
     "anti_raid_mode" : false
   },
   "908080238746017883" : {
