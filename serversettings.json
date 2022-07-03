@@ -249,6 +249,22 @@
         "votes" : [ 750405524029309060 ]
       } ],
       "id" : 989695531397840936
+    }, {
+      "question" : "que jugamos",
+      "answers" : [ {
+        "answer" : "pingarant",
+        "votes" : [ ]
+      }, {
+        "answer" : "choloblox",
+        "votes" : [ ]
+      }, {
+        "answer" : "fuck geis",
+        "votes" : [ ]
+      }, {
+        "answer" : "me gusta el chompi",
+        "votes" : [ 750405524029309060 ]
+      } ],
+      "id" : 992894067384004709
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
