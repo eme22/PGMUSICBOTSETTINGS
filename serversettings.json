@@ -319,6 +319,25 @@
         "votes" : [ ]
       } ],
       "id" : 996266846493868102
+    }, {
+      "question" : "Quien tiene mas calle?",
+      "answers" : [ {
+        "answer" : "Morad",
+        "votes" : [ ]
+      }, {
+        "answer" : "2pac",
+        "votes" : [ 462734701921042434 ]
+      }, {
+        "answer" : "Luks",
+        "votes" : [ 750405524029309060, 479389661295542292 ]
+      }, {
+        "answer" : "Fabri",
+        "votes" : [ ]
+      }, {
+        "answer" : "ElabuelodeFabri",
+        "votes" : [ ]
+      } ],
+      "id" : 997007368376299603
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
