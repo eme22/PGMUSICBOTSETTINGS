@@ -399,6 +399,28 @@
         "votes" : [ ]
       } ],
       "id" : 999557729075081216
+    }, {
+      "question" : "cuantas pollas come luks al dia?",
+      "answers" : [ {
+        "answer" : "10",
+        "votes" : [ ]
+      }, {
+        "answer" : "100",
+        "votes" : [ ]
+      }, {
+        "answer" : "2",
+        "votes" : [ ]
+      }, {
+        "answer" : "infinitas",
+        "votes" : [ 766262839441883137 ]
+      }, {
+        "answer" : "1 (la mía)",
+        "votes" : [ 462734701921042434, 852348541044260884 ]
+      }, {
+        "answer" : "0, soy gay",
+        "votes" : [ ]
+      } ],
+      "id" : 1008152193817399406
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
