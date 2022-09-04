@@ -185,6 +185,9 @@
     }, {
       "message" : "quiero <:sexo:993362654154477670>",
       "meme" : "https://cdn.discordapp.com/attachments/966006068033519660/995026959618814076/unknown.png"
+    }, {
+      "message" : "horse luis",
+      "meme" : "https://cdn.discordapp.com/attachments/750411201879474298/1015776109318639758/IMG-20220903-WA0012.jpg"
     } ],
     "polls" : [ {
       "question" : "deberiamos cumear a ñokas?",
@@ -415,6 +418,19 @@
         "votes" : [ ]
       } ],
       "id" : 1008152193817399406
+    }, {
+      "question" : "votarias por chichu presidente?",
+      "answers" : [ {
+        "answer" : "si",
+        "votes" : [ ]
+      }, {
+        "answer" : "si",
+        "votes" : [ 766262839441883137, 462734701921042434 ]
+      }, {
+        "answer" : "no",
+        "votes" : [ 750405524029309060 ]
+      } ],
+      "id" : 1015800678712610887
     } ],
     "role_manager" : [ {
       "id" : 966042617919963227,
