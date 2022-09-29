@@ -15,6 +15,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "788473329493082142" : {
@@ -63,6 +65,8 @@
       "toggled" : true
     } ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "899235841786904576" : {
@@ -81,6 +85,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "965775558136987649" : {
@@ -99,6 +105,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "998300461662748834" : {
@@ -117,6 +125,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "972920174539845652" : {
@@ -135,6 +145,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "750412299877089330" : {
@@ -477,6 +489,8 @@
       "toggled" : false
     } ],
     "8ball_answers" : [ "Sí", "No", "mas chipi", "si, con todas y con la tuya", "alu", "ñukas", "papilazus" ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "908080238746017883" : {
@@ -495,6 +509,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "699765429425668216" : {
@@ -513,6 +529,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "850036020749926471" : {
@@ -531,6 +549,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "755513981103505509" : {
@@ -550,6 +570,8 @@
     "polls" : [ ],
     "role_manager" : [ ],
     "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
   "796234198200483850" : {
@@ -782,6 +804,8 @@
       "toggled" : false
     } ],
     "8ball_answers" : [ "Si", "No", "pene", "Pregúntale al tank de Narco", "a tu vieja preguntale", "tu mamá la cachera", "te encanta", "Fue M", "Fue Jhera", "No sé, pero ese Jhera es cabro no más diré", "Ok", "tipea -pipilin ;)", "Probablemente", "Yo solo leí: \"pipipi\"", "xd", "tú pes montol", "Mega" ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   }
 }
