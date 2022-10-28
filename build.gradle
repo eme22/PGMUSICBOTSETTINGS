@@ -1,0 +1,65 @@
+plugins {
+    id 'org.springframework.boot' version '2.7.4'
+    id 'io.spring.dependency-management' version '1.0.14.RELEASE'
+    id 'java'
+}
+
+group = 'com.eme22'
+version = '1.0.0-SNAPSHOT'
+sourceCompatibility = '11'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+    all*.exclude group:'org.springframework.boot', module:'spring-boot-starter-logging'
+}
+
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+    maven {
+        name 'm2-dv8tion'
+        url 'https://m2.dv8tion.net/releases'
+    }
+    maven { url = uri("https://m2.chew.pro/releases") }
+}
+
+dependencies {
+
+    //SPRINGBOOT
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-log4j2'
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    //TYPESAFE CONFIG
+    implementation 'com.typesafe:config:1.4.2'
+
+    //JDA
+    implementation 'net.dv8tion:JDA:4.4.0_350'
+    implementation 'pw.chew:jda-chewtils:1.24.1'
+    implementation 'club.minnced:discord-webhooks:0.8.2'
+
+    //LAVA-PLAYER
+    implementation 'com.github.walkyst:lavaplayer-fork:1.3.97'
+    implementation 'com.github.Topis-Lavalink-Plugins:Topis-Source-Managers:v2.0.7'
+    implementation 'com.github.jagrosh:JLyrics:-SNAPSHOT'
+
+    //IMAGE API
+    implementation 'com.github.eme22:anime-image-api:0.5'
+
+    //GSON
+    implementation 'com.google.code.gson:gson:2.9.1'
+
+    //GITHUB
+    implementation 'org.kohsuke:github-api:1.308'
+
+    //PSQL
+    implementation group: 'org.postgresql', name: 'postgresql', version: '42.5.0'
+
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
