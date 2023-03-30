@@ -316,6 +316,26 @@
     "birthday_channel_id" : 0,
     "anti_raid_mode" : false
   },
+  "1047677283311292456" : {
+    "text_channel_id" : 0,
+    "voice_channel_id" : 0,
+    "dj_role_id" : 0,
+    "admin_role_id" : 0,
+    "repeat_mode" : "OFF",
+    "skip_ratio" : 0.55,
+    "bienvenidas_channel" : false,
+    "bienvenidas_channel_id" : 0,
+    "despedidas_channel" : false,
+    "despedidas_channel_id" : 0,
+    "image_only_channels_ids" : [ ],
+    "meme_images" : [ ],
+    "polls" : [ ],
+    "role_manager" : [ ],
+    "8ball_answers" : [ ],
+    "birthdays" : [ ],
+    "birthday_channel_id" : 0,
+    "anti_raid_mode" : false
+  },
   "978441050953764925" : {
     "text_channel_id" : 0,
     "voice_channel_id" : 0,
