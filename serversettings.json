@@ -80,7 +80,7 @@
     "anti_raid_mode" : false
   },
   "972920174539845652" : {
-    "text_channel_id" : 972920174539845655,
+    "text_channel_id" : 988869966558281768,
     "voice_channel_id" : 0,
     "dj_role_id" : 0,
     "admin_role_id" : 0,
@@ -93,10 +93,13 @@
     "despedidas_channel" : false,
     "despedidas_channel_id" : 972920174539845655,
     "image_only_channels_ids" : [ ],
-    "meme_images" : [ ],
+    "meme_images" : [ {
+      "message" : "gato de bolo",
+      "meme" : "https://media.discordapp.net/attachments/985913311461781514/1095836300810141806/image.png"
+    } ],
     "polls" : [ ],
     "role_manager" : [ ],
-    "8ball_answers" : [ ],
+    "8ball_answers" : [ "mipene" ],
     "birthdays" : [ ],
     "birthday_channel_id" : 0,
     "anti_raid_mode" : false
@@ -261,7 +264,7 @@
       },
       "toggled" : false
     } ],
-    "8ball_answers" : [ "Si", "No", "pene", "Pregúntale al tank de Narco", "a tu vieja preguntale", "tu mamá la cachera", "te encanta", "Fue M", "Fue Jhera", "No sé, pero ese Jhera es cabro no más diré", "Ok", "tipea -pipilin ;)", "Probablemente", "Yo solo leí: \"pipipi\"", "xd", "tú pes montol", "Mega" ],
+    "8ball_answers" : [ "Si", "No", "pene", "Pregúntale al tank de Narco", "a tu vieja preguntale", "tu mamá la cachera", "te encanta", "Fue M", "Fue Jhera", "No sé, pero ese Jhera es cabro no más diré", "Ok", "tipea -pipilin ;)", "Probablemente", "Yo solo leí: \"pipipi\"", "xd", "tú pes montol", "Mega", "", "el ano cuadrado de narco", "yourmom", "yo solo sé que te han cuckeado", "nose vro yo tengo pene", "ya pero porque eres mierda", "pregúntale a <@615812776149123073> que lo sabe todo", "el otro mi pata abrio una caja de 400usd", "agua papa papaaaa", "callate idiota", "hoy me manche los huevos con caca", "rozskin salta mas que tu mama en mi cama", "https://cdn.discordapp.com/attachments/1037198035182157834/1083269670850809936/image.png", "https://cdn.discordapp.com/attachments/1037198035182157834/1072765831416664144/image.jpg", "preguntale a feis el 30años a.c", "la tilina cuerpo minecraft", "pero mixton en la noche pe" ],
     "birthdays" : [ ],
     "birthday_channel_id" : 0,
     "anti_raid_mode" : false
